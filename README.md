@@ -5,6 +5,13 @@ This is the scratch project of how to set up dbt project inside the airflow envi
 
 Officical docker documentation -  https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html
 
+
+Command to build image along with dependencies :-
+>> docker compose build
+
+Comannd to start containers :-
+>> docker compose up
+
 Cleaning-up the environment :-
 Run the following command in the directory you downloaded the docker-compose.yaml file.
 >> docker compose down --volumes --remove-orphans
