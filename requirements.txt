@@ -1,0 +1,6 @@
+boto3
+pandas
+requests==2.31.0
+dbt-snowflake
+apache-airflow-providers-snowflake
+astronomer-cosmos
