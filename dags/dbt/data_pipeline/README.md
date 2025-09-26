@@ -15,8 +15,8 @@ Try running the following commands:
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
 
 
-Project setup by reference Tutorial - https://www.youtube.com/watch?v=OLXkGB7krGo
-Live notes - https://bittersweet-mall-f00.notion.site/Code-along-build-an-ELT-Pipeline-in-1-Hour-dbt-Snowflake-Airflow-cffab118a21b40b8acd3d595a4db7c15#93439fcec8f64293a4577e7edc25e85f
+- Project setup by reference Tutorial - https://www.youtube.com/watch?v=OLXkGB7krGo
+- Live notes - https://bittersweet-mall-f00.notion.site/Code-along-build-an-ELT-Pipeline-in-1-Hour-dbt-Snowflake-Airflow-cffab118a21b40b8acd3d595a4db7c15#93439fcec8f64293a4577e7edc25e85f
 
 
 
